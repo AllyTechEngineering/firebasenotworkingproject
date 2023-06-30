@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293054023217",
+    "project_id": "fir-notworkingwithflutter",
+    "storage_bucket": "fir-notworkingwithflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293054023217:android:4723d893a417970f127710",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotworkingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293054023217-d96mf6vlst8p770175ba0v0922ttsd1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXfhxIOkACs4T90W7Zab6pweSrAJCq7fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293054023217-d96mf6vlst8p770175ba0v0922ttsd1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
